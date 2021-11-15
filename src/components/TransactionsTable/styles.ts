@@ -1,7 +1,9 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
+    position: relative;
     margin-top: 4rem;
+    overflow: auto;
 
     table {
         width: 100%;
@@ -38,5 +40,28 @@ export const Container = styled.div`
                 border-radius: 0 .25rem .25rem 0;
             }
         }
+    }
+
+    &::-webkit-scrollbar {
+        height: 14px;
+        cursor: pointer;
+    }
+    
+    &::-webkit-scrollbar-thumb {
+        border-radius: 12px;
+        border: 4px solid var(--background);
+        background: rgba(0, 0, 0, .2);
+    }
+    
+    &::-webkit-scrollbar-thumb:hover {
+        background: rgba(0, 0, 0, .25);
+    }
+    
+    &::-webkit-scrollbar-track {
+        background: var(--background);
+    }
+
+    @media(max-width: 800px) {
+        margin-top: 2.5rem;
     }
 `;

@@ -15,7 +15,7 @@ createServer({
                     title: 'Desenvolvimento de Website',
                     type: "deposit",
                     category: 'Desenvolvimento',
-                    amount: '12.000',
+                    amount: 12,
                     createdAt: new Date('2021-02-12 09:00:00')
                 }
             ]
