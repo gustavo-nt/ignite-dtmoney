@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/gustavo-nt/ignite-dtmoney/blob/master/src/assets/logo.svg" alt="logo" height="50"/>
+  <img src="https://github.com/gustavo-nt/ignite-dtmoney/blob/master/src/assets/logo-github.svg" alt="logo" height="50"/>
 </h4>
 
 <h1 align="center">
@@ -34,7 +34,7 @@
 O dtmoney é uma aplicação para o controle de custos de um usuário, isto é, com base nos dados inseridos, a aplicação calcula as entradas, gastos e total. Esse Projeto foi desenvolvido durante a Semana 01 do Bootcamp Ignite.
 
 ### ✅ Demonstração
-<img src="https://github.com/gustavo-nt/ignite-watchme/blob/master/src/assets/watchme.png" />
+<img src="https://github.com/gustavo-nt/ignite-dtmoney/blob/master/src/assets/home.png" />
 
 ### ⚙ Pré-requisitos
 
