@@ -8,14 +8,16 @@
 <p align="center">Aplicação dtmoney$</p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=61DAFB&logo=react" />
-  <img src="https://img.shields.io/badge/last%20commit-november-important" />
+  <img src="https://img.shields.io/badge/react%20version-16.13.1-informational"/>
+  <img src="https://img.shields.io/badge/score-10.00-important" />
+  <img src="https://img.shields.io/badge/last%20commit-november-blue" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
 
 <p align="center">
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-a-aplicação-web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Lincença</a>
 </p>
@@ -52,7 +54,10 @@ $ git clone https://github.com/gustavo-nt/ignite-dtmoney
 $ yarn ou npm
 
 # Execute a aplicação
-$ yarn ou npm dev
+$ yarn ou npm start
+
+# Execute os testes
+$ yarn test
 ```
 
 ### 🚀 Tecnologias
@@ -61,6 +66,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJS
 - Typescript
+- Jest
 
 ### 📕 Bibliotecas
 
