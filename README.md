@@ -33,7 +33,7 @@
 - [x] Controle dos custos
 
 ### 💻 Projeto
-O dtmoney é uma aplicação para o controle de custos de um usuário, isto é, com base nos dados inseridos, a aplicação calcula as entradas, gastos e total. Esse Projeto foi desenvolvido durante a Semana 01 do Bootcamp Ignite.
+O dtmoney é uma aplicação para o controle de custos de um usuário, isto é, com base nos dados inseridos, a aplicação calcula as entradas, gastos e total. Esse Projeto foi desenvolvido durante a Semana 02 do Bootcamp Ignite.
 
 ### ✅ Demonstração
 <img src="https://github.com/gustavo-nt/ignite-dtmoney/blob/master/src/assets/home.png" />
